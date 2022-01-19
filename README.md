@@ -1,7 +1,8 @@
 # Awesome Medical Image Segmentation
 
 ## Datasets
-[BraTs 2018](https://www.med.upenn.edu/sbia/brats2018/data.html)
+- [BraTs 2018](https://www.med.upenn.edu/sbia/brats2018/data.html)
+- [BraTs 2020](https://www.med.upenn.edu/cbica/brats2020/data.html)
 
 ## Papers
 
